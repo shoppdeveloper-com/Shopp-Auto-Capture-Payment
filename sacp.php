@@ -5,7 +5,7 @@
 * Description: Add-on for Shopp e-commerce plugin to auto capture payments.
 * Author: Shoppdeveloper.com Team
 * Author URI: http://www.shoppdeveloper.com
-* Version: 0.1.1
+* Version: 0.1.2
 */
 
 defined( 'WPINC' ) || header( 'HTTP/1.1 403' ) & exit;

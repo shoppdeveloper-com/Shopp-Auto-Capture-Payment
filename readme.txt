@@ -4,8 +4,8 @@ Donate link: http://www.shoppdeveloper.com/
 Contributors : Shoppdeveloper.com
 Tags: shopp,auto-capture,ecommerce,webshop
 Requires at least: 2.0.2
-Tested up to: 3.9
-Stable tag: 0.1.1
+Tested up to: 4.7.2
+Stable tag: 0.1.2
 
 Add-on for Shopp e-commerce plug-in to auto capture payments.
 
@@ -40,3 +40,6 @@ First version to distribute
 
 = 0.1.1 =
 Added a payment gateway check, resolving the checkout loop when using offline payment gateway.
+
+= 0.1.2 =
+Updated WP version
